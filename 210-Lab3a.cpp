@@ -33,10 +33,10 @@ int main() {
 
         
     //Displays all restaurant information together
-    displayRestauratn(restaurant1);
-    displayRestauratn(restaurant2);
-    displayRestauratn(restaurant3);
-    displayRestauratn(restaurant4);
+    displayRestaurant(restaurant1);
+    displayRestaurant(restaurant2);
+    displayRestaurant(restaurant3);
+    displayRestaurant(restaurant4);
 
     return 0;
     
